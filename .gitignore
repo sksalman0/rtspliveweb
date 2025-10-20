@@ -1,0 +1,29 @@
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# VSCode
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+frontend/build/
+
+# HLS output
+frontend/public/*.ts
+frontend/public/*.m3u8
+
+# Misc
+*.swp
+*.swo
